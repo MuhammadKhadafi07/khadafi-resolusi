@@ -1,1 +1,26 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PEGAWAI HOME</title>
+  </head>
+  <body>
+    <container>
+      <div>
+        <header>
+          <h1>SIPA</h1>
+          <ol>
+            <li>Home</li>
+            <li>About Me</li>
+            <li>Shop</li>
+          </ol>
+        </header>
+        <content>
+          <ol>
+            <li>Home</li>
+            <li>About Me</li>
+            <li>Shop</li>
+          </ol></content>
+      </div>
+    </container>
+  </body>
+</html>
